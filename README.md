@@ -28,6 +28,3 @@ Código base gerado via [start.sprint.io](https://start.spring.io/#!type=maven-p
 
 - [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-## Contato e Dúvidas
-
-- fabio@computacao.ufcg.edu.br
